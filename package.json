@@ -1,5 +1,5 @@
 {
-  "name": "awake",
+  "name": "font-checker",
   "private": true,
   "scripts": {
     "start": "serve public"
