@@ -1,0 +1,11 @@
+{
+  "name": "awake",
+  "private": true,
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^10.1.1"
+  }
+}
